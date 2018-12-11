@@ -1,0 +1,9 @@
+#include<stdio.h>
+  
+int main()
+{
+ int mob;
+printf("\n enter your choice");
+scanf("%d",&mob);
+printf("%d this is mob",mob);
+}
